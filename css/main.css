@@ -57,18 +57,18 @@ a, .contactForm input.submit, #toTop i{
  .textWidget p, .servDesc p, .testimoniaContainer blockquote, .testimoniaContainer h3,
  ul#category li, .tweet p, .tweets .tweet_list, .bottom p , .bottom ul , .contactForm [type="text"], .contactForm textarea ,
  .contactForm textarea {
-	font-family: 'robotoregular', Arial,sans-serif;;
+font-family: 'Roboto Condensed', sans-serif;
 }
 
 
 .workDesc h3,.address p, .info , .emDesc h6, .edDesc h6{
-  font-family: 'robotomedium', Arial,sans-serif;
+font-family: 'Roboto Condensed', sans-serif;
 }
 
 
 nav#mainNav li,.teaserTitle h1, .secTitle h1, .innerTitle h1, .subTitle h1, .skillbarTitle, .textWidget h1, .emDesc h3, .edDesc h3, .inputBox label, .contactForm input.submit, .tweet h3, .tweets .tweet_list a,
 .bottom p span,  .titleInner h1 ,#loaderInner h1  {
-  font-family: 'robotobold', Arial,sans-serif;
+font-family: 'Roboto Condensed', sans-serif;
 }
 
 
@@ -130,7 +130,7 @@ p{
 	font-size:12px;
 	text-align:center;
 	margin-top:2px;
-	font-family: 'robotolight' , Arial,sans-serif;
+`font-family: 'Roboto Condensed', sans-serif;
 }
 
 
