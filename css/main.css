@@ -239,7 +239,7 @@ nav#mainNav  .active{
 
 #teaser{
 	color:#ffffff;
-	background:url(../images/sliderImages/parallax.jpg) ;
+	background:url(../image/bw.jpeg) ;
 	height:717px;
 	text-align:center;
 	background-position: center top;
@@ -1653,7 +1653,7 @@ ul#category li a:hover{
 
 	input, textarea{-webkit-appearance: none;-webkit-border-radius:0;}
 	html{-webkit-text-size-adjust: none;-moz-text-size-adjust:none;-ms-text-size-adjust:none;}
-	.clientContainer,.testimoniaContainer ,#teaser{background-attachment: scroll;background-position:top center !important;background-size: cover;}
+	.clientContainer,.testimoniaContainer ,#teaser{background-attachment: scroll;background-position:top center !important;background-size: cover; }
 
 	.holder960,.testimonialContent{width:400px;}
 	nav#mainNav li a {padding: 25px 12px;}
