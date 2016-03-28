@@ -32,7 +32,7 @@ address, article, aside, canvas, details, figcaption, figure, footer, header, hg
 body{
 	padding:0;
 	margin:0;
-	font-family:'robotoregular', Arial,sans-serif;
+	font-family: 'Roboto Condensed', sans-serif;
 	color:#999999;
 	overflow-x:hidden;
 	font-size:13px;
@@ -300,7 +300,7 @@ nav#mainNav  .active{
 
 
 .captions p {
-    font-size: 13px;
+    font-size: 20px;
 }
 
 /*End teaser*/
@@ -539,7 +539,7 @@ nav#mainNav  .active{
 	display:block;
 	font-size:14px;
 	margin:0 -13px;
-	font-family: 'robotomedium', Arial,sans-serif;
+	font-family: 'Roboto Condensed', sans-serif;
 
 }
 
@@ -878,7 +878,7 @@ nav#mainNav  .active{
 }
 
 .cta p{
-	font-family:'robotolight', Arial,sans-serif;
+	font-family: 'Roboto Condensed', sans-serif;
 	font-size:28px;
 	color:#2d2d2d;
 	line-height:40px;
@@ -1126,7 +1126,8 @@ ul#category li a:hover{
 }
 
 .workDesc h3 span{
-	font-family: 'robotolight', Arial,sans-serif;
+	font-family: 'Roboto Condensed', sans-serif;
+	font-weight: 300;
 	font-size:12px;
 }
 
@@ -1611,7 +1612,7 @@ ul#category li a:hover{
 	.holder960{width:700px;}
 	.testimoniaContainer,#teaser {background-attachment: scroll;background-position:top center !important;background-size: cover;}
 	.teaserTitle{margin-top:350px;}
-	.captions p{font-family: 'robotomedium', Arial,sans-serif;}
+	.captions p{font-family: 'Roboto Condensed', sans-serif; 	font-weight: 300;}
 	.getBtn {left: 4.7%;}
 	.followBtn{right:4.7%;}
 
@@ -1659,7 +1660,7 @@ ul#category li a:hover{
 	nav#mainNav li a {padding: 25px 12px;}
 	.secTitle{margin-top: -2px;}
 	#teaser, #teaser .overlay{height:530px;}
-	.captions p{font-family: 'robotomedium', Arial,sans-serif;}
+	.captions p{font-family: 'Roboto Condensed', sans-serif; font-weight: 300;}
 	.teaserTitle{margin-top:250px;}
 	.teaserTitle h1:before{margin-left:-265px;width:50px;top:27px;}
 	.teaserTitle h1:after{margin-right:-265px;width:50px;top:27px;}
@@ -1739,7 +1740,7 @@ ul#category li a:hover{
 	#teaser, #teaser .overlay{height:500px;}
 	.teaserTitle h1:before{margin-left:-160px;width:35px;top:52px;}
 	.teaserTitle h1:after{margin-right:-160px;width:35px;top:52px;}
-	.captions p{font-family: 'robotomedium', Arial,sans-serif;}
+	.captions p{font-family: 'Roboto Condensed', sans-serif; font-weight: 300;}
 
 
 
