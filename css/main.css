@@ -53,7 +53,7 @@ a, .contactForm input.submit, #toTop i{
 
 
 
-.teaserTitle h2, .captions p , .secTitle p , .innerTitle p,
+.teaserTitle h2, .captions  , .secTitle p , .innerTitle p,
  .textWidget p, .servDesc p, .testimoniaContainer blockquote, .testimoniaContainer h3,
  ul#category li, .tweet p, .tweets .tweet_list, .bottom p , .bottom ul , .contactForm [type="text"], .contactForm textarea ,
  .contactForm textarea {
@@ -299,7 +299,7 @@ nav#mainNav  .active{
 }
 
 
-.captions p {
+.captions  {
     font-size: 20px;
 }
 
@@ -816,7 +816,6 @@ nav#mainNav  .active{
 
 
 .em, .ed{
-	width:389px;
 	border-left:1px solid #efefef;
 	padding-left:30px;
 	position:relative;
@@ -1612,7 +1611,7 @@ ul#category li a:hover{
 	.holder960{width:700px;}
 	.testimoniaContainer,#teaser {background-attachment: scroll;background-position:top center !important;background-size: cover;}
 	.teaserTitle{margin-top:350px;}
-	.captions p{font-family: 'Roboto Condensed', sans-serif; 	font-weight: 300;}
+	.captions {font-family: 'Roboto Condensed', sans-serif; 	font-weight: 300;}
 	.getBtn {left: 4.7%;}
 	.followBtn{right:4.7%;}
 
@@ -1660,7 +1659,7 @@ ul#category li a:hover{
 	nav#mainNav li a {padding: 25px 12px;}
 	.secTitle{margin-top: -2px;}
 	#teaser, #teaser .overlay{height:530px;}
-	.captions p{font-family: 'Roboto Condensed', sans-serif; font-weight: 300;}
+	.captions {font-family: 'Roboto Condensed', sans-serif; font-weight: 300;}
 	.teaserTitle{margin-top:250px;}
 	.teaserTitle h1:before{margin-left:-265px;width:50px;top:27px;}
 	.teaserTitle h1:after{margin-right:-265px;width:50px;top:27px;}
@@ -1740,7 +1739,7 @@ ul#category li a:hover{
 	#teaser, #teaser .overlay{height:500px;}
 	.teaserTitle h1:before{margin-left:-160px;width:35px;top:52px;}
 	.teaserTitle h1:after{margin-right:-160px;width:35px;top:52px;}
-	.captions p{font-family: 'Roboto Condensed', sans-serif; font-weight: 300;}
+	.captions {font-family: 'Roboto Condensed', sans-serif; font-weight: 300;}
 
 
 
